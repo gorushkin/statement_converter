@@ -10,13 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^1.7.2",
-    "i": "^0.3.7",
-    "npm": "^10.8.1",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.16.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.24.1",
-    "zustand": "^4.5.4"
+    "react-router-dom": "^6.24.1"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -25,15 +24,8 @@
     "@typescript-eslint/parser": "^7.13.1",
     "@vitejs/plugin-react": "^4.3.1",
     "eslint": "^8.57.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-perfectionist": "^2.11.0",
-    "eslint-plugin-react": "^7.34.3",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
-    "eslint-plugin-unused-imports": "^4.0.0",
-    "prettier": "^3.3.2",
-    "sass": "^1.77.6",
     "typescript": "^5.2.2",
     "vite": "^5.3.1"
   }
